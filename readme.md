@@ -15,7 +15,7 @@
 
 ## Single-Frame
 
-### [Variants_of_U-Net](#Contents)
+### [Variants of U-Net](#Contents)
 
 ## Multi-Frame
 
