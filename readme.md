@@ -22,7 +22,7 @@
 ## [Single-Frame](#Contents)
 
 
-### 1) [Variants of U-Net](#Contents)
+### [Variants of U-Net](#Contents)
 
 
 ### 2) [Variants of Generative Adversarial Network](#Contents)
