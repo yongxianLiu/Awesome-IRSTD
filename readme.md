@@ -5,11 +5,11 @@
 ## Contents
 
 - [Single-Frame](#Single-Frame)
-	- [1.Variants of U-Net](#Variants-of-U-Net)
- 	- [2.Variants of Generative Adversarial Network (GAN)](#Variants-of-Generative-Adversarial-Network)
-  	- [3.Variants of Transformer](#Variants-of-Transformer)
-  	- [4.Dual-branch](#Dual-branch)
-  	- [5.Variants of Mamba](#Variants-of-Mamba)
+	- [1) Variants of U-Net](#Variants-of-U-Net)
+ 	- [2) Variants of Generative Adversarial Network (GAN)](#Variants-of-Generative-Adversarial-Network)
+  	- [3) Variants of Transformer](#Variants-of-Transformer)
+  	- [4) Dual-branch](#Dual-branch)
+  	- [5) Variants of Mamba](#Variants-of-Mamba)
   	- [6) Variants of Graph Neural Network (GNN)](#Variants-of-Graph-Neural-Network)
   	- [7) Variants of Diffusion Model](#Variants-of-Diffusion-Model)
 - [Multi-Frame](#Multi-Frame)
@@ -22,22 +22,22 @@
 ## [Single-Frame](#Contents)
 
 
-### [Variants of U-Net](#Contents)
+### [1) Variants of U-Net](#Contents)
 
 
-### [Variants of Generative Adversarial Network](#Contents)
+### [2) Variants of Generative Adversarial Network](#Contents)
 
 
 
-### [Variants of Transformer](#Contents)
+### [3) Variants of Transformer](#Contents)
 
 
-### [Dual-branch](#Contents)
+### [4) Dual-branch](#Contents)
 
-### [Variants of Mamba](#Content)
+### [5) Variants of Mamba](#Content)
 
-### [Variants of Graph Neural Network](#Content)
-### [Variants of Diffusion Model](#Content)
+### [6) Variants of Graph Neural Network](#Content)
+### [7) Variants of Diffusion Model](#Content)
 
 
 ## [Multi-Frame](#Contents)
