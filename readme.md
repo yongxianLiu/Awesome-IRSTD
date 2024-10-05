@@ -6,7 +6,7 @@
 
 - [Single-Frame](#Single-Frame)
 	- [Variants of U-Net](#Variants-of-U-Net)
- 	- [Variants of Generative Adversarial Network (GAN)](Variants-of-Generative-Adversarial-Network)
+ 	- [Variants of Generative Adversarial Network](Variants-of-Generative-Adversarial-Network)
 - [Multi-Frame](#Multi-Frame)
 
 - 
