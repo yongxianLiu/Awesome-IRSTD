@@ -20,7 +20,7 @@
 ### [Variants of U-Net](#Contents)
 
 
-### [Variants of Generative Adversarial Network (GAN)](#Contents)
+### [Variants of Generative Adversarial Network](#Contents)
 
 
 ## [Multi-Frame](#Contents)
