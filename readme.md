@@ -40,10 +40,13 @@ Note:
 
 ### [Variants of U-Net](#Contents)
 
-
 - Learning Contrast-Enhanced Shape-Biased Representations for Infrared Small Target Detection
   +  Lin F, Bao K, Li Y, et al. **TIP 2024**
   +  [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508299)
+
+- **ABC**, ABC: Attention with Bilinear Correlation for Infrared Small Target Detection
+  + P. Pan, H. Wang, C. Wang and C. Nie. **ICME 2023**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219645) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/PANPEIWEN/ABC)
 
 - **UIU-Net**, UIU-Net: U-Net in U-Net for Infrared Small Object Detection
   + Wu X, Hong D, Chanussot J. **TIP 2022**
