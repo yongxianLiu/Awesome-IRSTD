@@ -18,7 +18,10 @@
 - [Weak Supervision](#Weak-Supervision)
 - [Lightweight](#Lightweight)
 	- [1) Network](#Network)
-- 
+ 	- [2) Quantization](#Quantization)
+  	- [3) Distillation](#Distillation)
+  	- [4) Prune](#Prune)
+- [Larget Model](#Large-Model)
 - [Datasets](#Datasets)
 - [Challenges](#Challenges)
 
@@ -54,8 +57,12 @@
 ## [Lightweight](#Content)
 
 ### [Network](#Content)
+### [Quantization](#Content)
+### [Distillation](#Content)
+### [Prune](#Content)
 
 
+## [Larget Model](#Content)
 
 
 
