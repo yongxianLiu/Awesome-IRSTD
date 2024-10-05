@@ -8,6 +8,7 @@
 	- [Variants of U-Net](#Variants-of-U-Net)
  	- [Variants of Generative Adversarial Network (GAN)](#Variants-of-Generative-Adversarial-Network)
   	- [Variants of Transformer](#Variants-of-Transformer)
+  	- [Dual-branch](#Dual-branch)
 - [Multi-Frame](#Multi-Frame)
 
 - 
@@ -26,6 +27,9 @@
 
 
 ### [Variants of Transformer](#Contents)
+
+
+### [Dual-branch](#Contents)
 
 
 ## [Multi-Frame](#Contents)
