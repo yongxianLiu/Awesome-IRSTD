@@ -42,7 +42,7 @@ Note:
 
 - **DNA-Net**, Dense Nested Attention Network for Infrared Small Target Detection
   + Li B, Xiao C, Wang L, et al. **TIP 2022**
-  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/document/9864119) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YeRen123455/Infrared-Small-Target-Detection) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/XinyiYing/BasicIRSTD)
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9864119) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YeRen123455/Infrared-Small-Target-Detection) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/XinyiYing/BasicIRSTD)
 
 - **ACM**, Asymmetric Contextual Modulation for Infrared Small Target Detection
   + Dai Y, Wu Y, Zhou F, et al. **WACV 2021**
