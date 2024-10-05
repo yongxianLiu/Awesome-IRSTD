@@ -9,6 +9,9 @@
  	- [Variants of Generative Adversarial Network (GAN)](#Variants-of-Generative-Adversarial-Network)
   	- [Variants of Transformer](#Variants-of-Transformer)
   	- [Dual-branch](#Dual-branch)
+  	- [Variants of Mamba](#Variants-of-Mamba)
+  	- [Variants of Graph Neural Network (GNN)](#Variants-of-Graph-Neural-Network)
+  	- [7)Variants of Diffusion Model](#Variants-of-Diffusion-Model)
 - [Multi-Frame](#Multi-Frame)
 
 - 
@@ -30,6 +33,11 @@
 
 
 ### [Dual-branch](#Contents)
+
+### [Variants of Mamba](#Content)
+
+### [Variants of Graph Neural Network](#Content)
+### [Variants of Diffusion Model](#Content)
 
 
 ## [Multi-Frame](#Contents)
