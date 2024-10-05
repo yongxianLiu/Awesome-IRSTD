@@ -114,7 +114,9 @@ Note:
 
 
 ### [Variants of Transformer](#Contents)
-
+- **IRSTFormer**, IRSTFormer: A Hierarchical Vision Transformer for Infrared Small Target Detection
+  + Chen G, Wang W, Tan S. **Remote Sensing 2022**
+  + [![](https://img.shields.io/badge/Link-Paper-blue)](https://www.mdpi.com/2072-4292/14/14/3258)
 
 ### [Dual-branch](#Contents)
 
