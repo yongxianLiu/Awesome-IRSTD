@@ -40,6 +40,10 @@ Note:
 
 ### [Variants of U-Net](#Contents)
 
+- Learning Contrast-Enhanced Shape-Biased Representations for Infrared Small Target Detection
+  +  Lin F, Bao K, Li Y, et al. **TIP 2024**
+  +  [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10508299)
+
 - **UIU-Net**, UIU-Net: U-Net in U-Net for Infrared Small Object Detection
   + Wu X, Hong D, Chanussot J. **TIP 2022**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9989433) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/danfenghong/IEEE_TIP_UIU-Net) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/XinyiYing/BasicIRSTD)
@@ -47,6 +51,10 @@ Note:
 - **DNA-Net**, Dense Nested Attention Network for Infrared Small Target Detection
   + Li B, Xiao C, Wang L, et al. **TIP 2022**
   + [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9864119) [![](https://img.shields.io/badge/Code-PyTorch-orange)](https://github.com/YeRen123455/Infrared-Small-Target-Detection) [![](https://img.shields.io/badge/Code-PyTorch-green)](https://github.com/XinyiYing/BasicIRSTD)
+
+- **SPSCNet**, Detecting Dim Small Target in Infrared Images via Subpixel Sampling Cuneate Network
+  +  He X, Ling Q, Zhang Y, et al. **GRSL 2022**
+  +  [![](https://img.shields.io/badge/Link-Paper-blue)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9817112)
 
 - **ALCNet**, Attentional Local Contrast Networks for Infrared Small Target Detection
   + Dai Y, Wu Y, Zhou F, et al. **TGRS 2021**
