@@ -21,7 +21,11 @@
  	- [2) Quantization](#Quantization)
   	- [3) Distillation](#Distillation)
   	- [4) Prune](#Prune)
-- [Larget Model](#Large-Model)
+- [Large Model](#Large-Model)
+- [Loss](#Loss)
+- [Self-Supervised Learning](#Self-Supervised-Learning)
+- [Box](#Box)
+- [Surveys](#Surveys)
 - [Datasets](#Datasets)
 - [Challenges](#Challenges)
 
@@ -62,8 +66,17 @@
 ### [Prune](#Content)
 
 
-## [Larget Model](#Content)
+## [Large Model](#Content)
 
+
+## [Loss](#Content)
+
+
+## [Self-Supervised Learning](#Content)
+
+## [Box](#Content)
+
+## [Surveys](#Content)
 
 
 ## [Datasets](#Contents)
