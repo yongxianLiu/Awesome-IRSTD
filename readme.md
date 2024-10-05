@@ -15,6 +15,8 @@
   	- [8) Variants of Pyramid](#Variants-of-Pyramid)
   	- [9) Frequency](#Frequency)
 - [Multi-Frame](#Multi-Frame)
+- [Weak Supervision](#Weak-Supervision)
+- [Lightweight](#Lightweight)
 
 - 
 - [Datasets](#Datasets)
@@ -45,6 +47,15 @@
 
 
 ## [Multi-Frame](#Contents)
+
+
+## [Weak Supervision](#Content)
+
+## [Lightweight](#Content)
+
+
+
+
 
 
 ## [Datasets](#Contents)
