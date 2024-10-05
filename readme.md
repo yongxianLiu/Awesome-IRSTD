@@ -34,7 +34,7 @@
 
 ### 4) [Dual-branch](#Contents)
 
-### [Variants of Mamba](#Content)
+### 5) [Variants of Mamba](#Content)
 
 ### [Variants of Graph Neural Network](#Content)
 ### [Variants of Diffusion Model](#Content)
