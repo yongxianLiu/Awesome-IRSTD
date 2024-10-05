@@ -12,6 +12,8 @@
   	- [5) Variants of Mamba](#Variants-of-Mamba)
   	- [6) Variants of Graph Neural Network (GNN)](#Variants-of-Graph-Neural-Network)
   	- [7) Variants of Diffusion Model](#Variants-of-Diffusion-Model)
+  	- [8) Variants of Pyramid](#Variants-of-Pyramid)
+  	- [9) Frequency](#Frequency)
 - [Multi-Frame](#Multi-Frame)
 
 - 
@@ -25,19 +27,21 @@
 ### [Variants of U-Net](#Contents)
 
 
-### 2) [Variants of Generative Adversarial Network](#Contents)
+### [Variants of Generative Adversarial Network](#Contents)
 
 
 
-### 3) [Variants of Transformer](#Contents)
+### [Variants of Transformer](#Contents)
 
 
-### 4) [Dual-branch](#Contents)
+### [Dual-branch](#Contents)
 
-### 5) [Variants of Mamba](#Content)
+### [Variants of Mamba](#Content)
 
 ### [Variants of Graph Neural Network](#Content)
 ### [Variants of Diffusion Model](#Content)
+### [Variants of Pyramid](#Content)
+### [Frequency](#Content)
 
 
 ## [Multi-Frame](#Contents)
